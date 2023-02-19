@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\User\source\repos\cs8dotnetcore3\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache
